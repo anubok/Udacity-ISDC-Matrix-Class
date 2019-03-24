@@ -2,8 +2,12 @@
 
 Your project workspace will contain several files. On the next page, you will see something like this:
 
+  ![](Images/Image1.png)
+      
+
 We recommend that you open all of these files (except for two noted below) in new tabs so that your browser looks something like this:
 
+![](Images/image2.png)
 
 You can ignore datagenerator.py and test.py, which you won't need to modify
 
